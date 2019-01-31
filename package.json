@@ -1,6 +1,6 @@
 {
   "name": "react-native-tweetnacl",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "ReactNative-ready tweetnacl.js : easy-to-use high-speed software library for network communication, encryption, decryption, signatures, etc",
   "main": "tweetnacl.js",
   "scripts": {
